@@ -43,4 +43,3 @@ Customer-Churn-Analysis/
 ├── sql/
 └── README.md
 └── requirenments
-└── .gitignore
