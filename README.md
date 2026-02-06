@@ -38,8 +38,8 @@ This project analyzes customer behavior to identify key drivers of churn and bui
 - Improve onboarding for new customers
 
 ## Project Structure
-Customer-Churn-Analysis/
-├── notebooks/
-├── sql/
+Customer-Churn-Analysis
+├── notebooks
+├── sql
 └── README.md
 └── requirenments
